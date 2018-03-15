@@ -30,6 +30,10 @@ proyecto de arduino para la alarma de una puerta
 * Software IDE Arduino
 * iman
 
+#Diagrama
+![diagrama](diagrama.png)
+
+
 #Evidencias
 ![evidencia](evidencia.jpg)
 ![evidencia](evidencia2.jpg)
